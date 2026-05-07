@@ -135,7 +135,9 @@ This project is released for academic and research use. Please check with the au
 
 ## Author
 
-**nithsrin-arch** — [GitHub Profile](https://github.com/nithsrin-arch)
+**Nithish Sriram Srinivasan**
+**Akanksha Bharadwaj**
+**Krishi Thirupathi**
 
 ---
 
